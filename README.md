@@ -1,3 +1,3 @@
-This app is designed to help local organic farmers sell their harvest.  It connects them with local restaurants and chefs.  It also allows users to receive notifications on upcoming seasonal items.  This would allow the user to have access to the fresh, locally-grown and in season fruits, vegetables and meats.  
+This is organic food delivery app created with React and Firebase.  It makes use of React hooks as well as CSS Grid.  It allows the user to create a profile, create orders and the app automatically calculates the tax and other charges.  It uses the Stripe API to receive payments and a receipt is sent to both the user and the restaurant at the end of the transaction.  The users favorite orders are recorded into a database where the data can be used by the business owner to improve customer relations and communication.  I'm planning to add a reward system to this app, similar to the Chik-fil-a mobile app.  
 
-This project makes use of the MERN stack along with Firebase.
+Please view on a laptop.  I am still working on the mobile version.
